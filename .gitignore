@@ -15,3 +15,5 @@ experiments
 #secret file
 
 .env
+
+.streamlit
