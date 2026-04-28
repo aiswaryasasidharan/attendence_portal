@@ -1,0 +1,9 @@
+supabase : https://supabase.com/
+
+github : https://github.com/
+
+python : http://python.org/
+
+streamlit cloud : https://streamlit.io/cloud
+
+project link : https://github.com/d-hackmt/attendence-portal
