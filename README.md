@@ -28,8 +28,6 @@ Attendence/
 ├── logs/
 │   └── app.log           → Combined logs
 │
-├── records/              → CSV exports for admin analytics
-│
 ├── pyproject.toml        → Project dependencies
 ├── requirements.txt      → For pip installs
 ├── versions.py           → Prints package versions
